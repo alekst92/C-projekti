@@ -1,0 +1,2 @@
+# C-projekti
+hirsipuu(peli)
